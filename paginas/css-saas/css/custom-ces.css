@@ -7,10 +7,16 @@
     background-color: #dddddd;
     padding: 20px 20px 20px 45px;
     border-radius: 20px;
+    margin-left: 25px;
 }
 
-.hr-color{
-    background-color: #4096ac;
+.cuadro-gris-primero{
+    display: flex;
+    align-items: center;
+}
+
+.cuadro-gris-primero > img{
+position: absolute;
 }
 
 .fondo-acordeon{
@@ -69,3 +75,5 @@ button.accordion:hover, button.accordion.is-open {
 .p-padding{
     padding: 15px 0px 10px 0px;
 }
+
+

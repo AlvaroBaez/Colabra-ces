@@ -3,7 +3,7 @@
  function BuenosModales(modalClass){
 
       $('#s4-workspace').css({overflowY: 'hidden', width: '100%'});
-        $('html').css({overflow: 'hidden', width: '100%'});
+        $('html').css({overflow: 'hidden', width: '100vw'});
       // document.body.addEventListener('touchmove', function(e){ e.preventDefault(); });
  
      
